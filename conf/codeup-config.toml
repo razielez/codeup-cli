@@ -1,0 +1,10 @@
+[aliyun]
+access.key = ""
+sercert.key = ""
+
+[codeup]
+token = ""
+deploy.key.id = 1
+origanization.id = ""
+endpoint = ""
+group = ""

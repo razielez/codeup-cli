@@ -1,3 +1,6 @@
+use std::env;
+
 fn main() {
-    println!("Hello, world!");
+    let token = env::var("GITEE_TOKEN").unwrap();
+    println!("token: {}", token)
 }
